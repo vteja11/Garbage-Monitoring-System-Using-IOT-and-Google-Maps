@@ -2,8 +2,8 @@ import time
 import serial
 import smtplib
 
-TO = 'adityapankaj.shaha2015@vit.ac.in'
-GMAIL_USER = 'adityapankaj.shaha2015@vit.ac.in'
+TO = 'vemparala.teja2015@vit.ac.in'
+GMAIL_USER = 'vemparala.teja2015@vit.ac.in'
 GMAIL_PASS = 'xxxxxxxx'
 
 SUBJECT = 'The Garbage is about to get full !'
